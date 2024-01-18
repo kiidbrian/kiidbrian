@@ -1,4 +1,15 @@
-### Hi there 👋
+### Welcome 👋
+
+I am Brian, an avid full-stack developer!
+
+- 🔭 I’m currently working on 2 interesting web projects!
+- 🌱 I’m currently learning MLOps
+- 👯 I’m looking to collaborate on AI/ML projects
+- 🤔 I’m looking for help with technical writing
+- 💬 Ask me about anything web and mobile
+- 📫 How to reach me: apps4brian@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My favoriate hangout place is Foo Bar!
 
 <!--
 **kiidbrian/kiidbrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
