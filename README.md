@@ -11,6 +11,8 @@ I am Brian, an avid full-stack developer!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favoriate hangout place is Foo Bar!
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kiidbrian)](https://git.io/streak-stats)
+
 <!--
 **kiidbrian/kiidbrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
