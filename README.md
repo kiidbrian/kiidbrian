@@ -15,8 +15,7 @@ I am Brian, an avid full-stack(web, mobile) developer!
 My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-sand-zeta-85.vercel.app
-/api?username=kiidbrian&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiidbrian&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/kiidbrian/github-readme-stats)
