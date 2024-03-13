@@ -1,17 +1,21 @@
-### Welcome 👋
+### Hey there, welcome 👋
 
-I am Brian, an avid full-stack developer!
+I am Brian, an avid full-stack(web, mobile) developer!
 
 - 🔭 I’m currently working on 2 interesting web projects!
-- 🌱 I’m currently learning MLOps
-- 👯 I’m looking to collaborate on AI/ML projects
-- 🤔 I’m looking for help with technical writing
+- 🚀 I'm learning to build machine learning softwares and systems
+- 🧐 I'm also learning Svelte
 - 💬 Ask me about anything web and mobile
-- 📫 How to reach me: apps4brian@gmail.com
+- 📫 How to reach me: braendadev@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My favoriate hangout place is Foo Bar!
+- 🌭 My dream: ```while(sleeping){money++;}```
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kiidbrian)](https://git.io/streak-stats)
+My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiidbrian)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kiidbrian)](https://git.io/streak-stats) 
+-->
 
 <!--
 **kiidbrian/kiidbrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
